@@ -28,8 +28,8 @@ Finds every Pareto-optimal journey between two Swiss stops (Connection Scan Algo
 Fire-and-water co-op game with a boss fight; interactions via double dispatch (visitor pattern).
 
 **[Kairo](https://kairocareer.app)** — internship search and application platform *(code private)*<br>
-<sub>Next.js · TypeScript · Python · PostgreSQL (Supabase, row-level security) · GitHub Actions · Vercel</sub><br>
-A daily pipeline crawls career boards, programme and free-credit feeds, deduplicates every opening and scores it against the user's profile. Tracks every deadline, tailors the CV to each offer and pre-fills application forms; a contact CRM links each opening to the people connected to that employer. **160+** tests, CI.
+<sub>Next.js · TypeScript · Python · PostgreSQL (Supabase, row-level security) · GitHub Actions · Railway · Vercel</sub><br>
+Live with public users since Oct 2026. A scheduled Python pipeline pulls openings from employers' public job feeds and ATS APIs, deduplicates them, then an LLM worker scores each one against every user's profile. Multi-tenant Postgres isolated by row-level security; an application copilot drafts each form answer with its source and flags uncertain ones; a referral finder links every opening to the user's connections at that company. **160+** tests, CI.
 
 **[Cortex](https://cortexexam.com)** — exam-preparation platform · [code](https://github.com/Benabens/cortex)<br>
 <sub>Next.js · TypeScript · PostgreSQL · Drizzle · LaTeX · Railway</sub><br>
@@ -45,8 +45,8 @@ Learns each course's exam format from past papers, weights every topic by how he
   Building a RAG copilot over regulatory and quality documents and AI agents for the executive team.
 - **EPFL** — Teaching Assistant, Mechanics (PHYS-101) and Linear Algebra (MATH-111) · since Sep 2026<br>
   Mechanics course of 1,000+ students; I lead a weekly exercise session and answer questions on the course forum.
-- **NanoSynex** *(Technion medtech spin-off)* — AI & automation, reporting to the CEO · Jun – Sep 2024<br>
-  Simulated bacterial growth curves and implemented a sequential probability ratio test that cut time-to-result by 20% at a <3% major-error rate.
+- **NanoSynex** *(Technion medtech spin-off)* — Software Engineer, ML & Statistical Modeling · Jun – Sep 2024<br>
+  Modeled bacterial growth in Python and NumPy to compare Wald's sequential probability ratio test (SPRT) with a fixed-threshold rule for antibiotic susceptibility testing; in simulation, the SPRT reached a decision 20% sooner, with a major-error rate below 3%.
 - **BABOO** — founder & event producer, Lausanne · 2025<br>
   Produced 3 club nights end to end that brought in CHF 10,000.
 
