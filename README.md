@@ -59,6 +59,6 @@ Learns each course's exam format from past papers, weights every topic by how he
 [![Stack](https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,postgres,nextjs,react,nodejs,supabase,pytorch,githubactions,linux,git&perline=15)](https://skillicons.dev)
 
 **Languages** — Python, TypeScript/JavaScript, Java, C/C++, SQL, Verilog, x86/RISC-V assembly<br>
-**ML & AI** — PyTorch, NumPy, pandas, matplotlib, Ollama<br>
+**ML & AI** — PyTorch, scikit-learn, NumPy, pandas, matplotlib<br>
 **Web & systems** — Next.js, React, Node.js, REST APIs, PostgreSQL, Supabase, web scraping, GitHub Actions, Linux, POSIX sockets, Git<br>
 **Spoken** — French (native), English (fluent), Hebrew (basic), Spanish (basic)
